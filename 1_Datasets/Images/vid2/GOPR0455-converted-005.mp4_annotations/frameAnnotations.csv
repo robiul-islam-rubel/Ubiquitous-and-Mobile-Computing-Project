@@ -1,0 +1,24 @@
+Filename,Annotation tag,Upper left corner X,Upper left corner Y,Lower right corner X,Lower right corner Y,Occluded,On another road,Origin file,Origin frame number,Origin track,Origin track frame number
+GOPR0455-converted-005-bicycleCrossing-start3675.mp4_image0.png,bicycleCrossing,837,295,869,327,0,0,GOPR0455-converted-005.mp4,3749,GOPR0455-converted-005-bicycleCrossing-start3675.mp4,74
+GOPR0455-converted-005-bicycleCrossing-start3675.mp4_image1.png,bicycleCrossing,906,269,937,304,0,0,GOPR0455-converted-005.mp4,3754,GOPR0455-converted-005-bicycleCrossing-start3675.mp4,79
+GOPR0455-converted-005-pedestrianCrossing-start3265.mp4_image0.png,school,740,318,765,342,0,0,GOPR0455-converted-005.mp4,3369,GOPR0455-converted-005-pedestrianCrossing-start3265.mp4,104
+GOPR0455-converted-005-pedestrianCrossing-start3265.mp4_image1.png,school,767,305,793,333,0,0,GOPR0455-converted-005.mp4,3374,GOPR0455-converted-005-pedestrianCrossing-start3265.mp4,109
+GOPR0455-converted-005-pedestrianCrossing-start3265.mp4_image2.png,school,802,291,833,320,0,0,GOPR0455-converted-005.mp4,3379,GOPR0455-converted-005-pedestrianCrossing-start3265.mp4,114
+GOPR0455-converted-005-pedestrianCrossing-start3265.mp4_image3.png,school,850,268,884,301,0,0,GOPR0455-converted-005.mp4,3384,GOPR0455-converted-005-pedestrianCrossing-start3265.mp4,119
+GOPR0455-converted-005-roadworkAhead-start3775.mp4_image0.png,roadworkAhead,360,310,419,370,0,0,GOPR0455-converted-005.mp4,3884,GOPR0455-converted-005-roadworkAhead-start3775.mp4,109
+GOPR0455-converted-005-roadworkAhead-start3775.mp4_image1.png,roadworkAhead,307,288,373,359,0,0,GOPR0455-converted-005.mp4,3889,GOPR0455-converted-005-roadworkAhead-start3775.mp4,114
+GOPR0455-converted-005-roadworkAhead-start3775.mp4_image2.png,roadworkAhead,215,249,301,341,0,0,GOPR0455-converted-005.mp4,3894,GOPR0455-converted-005-roadworkAhead-start3775.mp4,119
+GOPR0455-converted-005-roadworkAhead-start3775.mp4_image3.png,roadworkAhead,38,165,151,299,0,0,GOPR0455-converted-005.mp4,3899,GOPR0455-converted-005-roadworkAhead-start3775.mp4,124
+GOPR0455-converted-005-roadworkAhead-start3775.mp4_image4.png,workersAhead,421,340,462,383,0,0,GOPR0455-converted-005.mp4,4009,GOPR0455-converted-005-roadworkAhead-start3775.mp4,234
+GOPR0455-converted-005-roadworkAhead-start3775.mp4_image5.png,workersAhead,402,332,445,379,0,0,GOPR0455-converted-005.mp4,4014,GOPR0455-converted-005-roadworkAhead-start3775.mp4,239
+GOPR0455-converted-005-roadworkAhead-start3775.mp4_image6.png,workersAhead,375,319,425,373,0,0,GOPR0455-converted-005.mp4,4019,GOPR0455-converted-005-roadworkAhead-start3775.mp4,244
+GOPR0455-converted-005-roadworkAhead-start3775.mp4_image7.png,workersAhead,339,301,396,366,0,0,GOPR0455-converted-005.mp4,4024,GOPR0455-converted-005-roadworkAhead-start3775.mp4,249
+GOPR0455-converted-005-roadworkAhead-start3775.mp4_image8.png,workersAhead,281,274,354,354,0,0,GOPR0455-converted-005.mp4,4029,GOPR0455-converted-005-roadworkAhead-start3775.mp4,254
+GOPR0455-converted-005-roadworkAhead-start3775.mp4_image9.png,workersAhead,196,233,285,335,0,0,GOPR0455-converted-005.mp4,4034,GOPR0455-converted-005-roadworkAhead-start3775.mp4,259
+GOPR0455-converted-005-roadworkAhead-start3775.mp4_image10.png,workersAhead,49,155,154,299,0,0,GOPR0455-converted-005.mp4,4039,GOPR0455-converted-005-roadworkAhead-start3775.mp4,264
+GOPR0455-converted-005-roadworkAhead-start3775.mp4_image11.png,workersAhead,774,304,813,344,0,0,GOPR0455-converted-005.mp4,4009,GOPR0455-converted-005-roadworkAhead-start3775.mp4,234
+GOPR0455-converted-005-roadworkAhead-start3775.mp4_image12.png,workersAhead,807,292,851,338,0,0,GOPR0455-converted-005.mp4,4014,GOPR0455-converted-005-roadworkAhead-start3775.mp4,239
+GOPR0455-converted-005-roadworkAhead-start3775.mp4_image13.png,workersAhead,850,270,897,319,0,0,GOPR0455-converted-005.mp4,4019,GOPR0455-converted-005-roadworkAhead-start3775.mp4,244
+GOPR0455-converted-005-roadworkAhead-start3775.mp4_image14.png,oneWay,264,336,289,361,0,0,GOPR0455-converted-005.mp4,4069,GOPR0455-converted-005-roadworkAhead-start3775.mp4,294
+GOPR0455-converted-005-roadworkAhead-start3775.mp4_image15.png,oneWay,162,312,208,343,0,0,GOPR0455-converted-005.mp4,4074,GOPR0455-converted-005-roadworkAhead-start3775.mp4,299
+GOPR0455-converted-005-roadworkAhead-start3775.mp4_image16.png,oneWay,2,270,69,308,0,0,GOPR0455-converted-005.mp4,4079,GOPR0455-converted-005-roadworkAhead-start3775.mp4,304

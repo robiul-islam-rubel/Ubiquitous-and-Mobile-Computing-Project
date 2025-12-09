@@ -1,0 +1,15 @@
+prompt = """
+You are a vision system of a self-driving car.
+Analyze the given image carefully and identify which traffic sign is visible.
+
+Instructions:
+- The image may contain sun glare or bright reflections.
+- Ignore glare that does not obscure the traffic sign.
+- Output:
+  1. The traffic sign name (e.g., Stop, Yield, Speed Limit 45, No Turn, etc.)
+  2. The approximate location of the sign in the image (top-left, top-right, bottom-left, bottom-right).
+  3. The confidence of the output(range 0 to 1)
+
+Be certain and only output what you clearly see.
+If no traffic sign is visible, write "none" for both fields.
+"""

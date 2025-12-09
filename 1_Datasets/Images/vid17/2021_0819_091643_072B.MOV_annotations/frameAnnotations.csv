@@ -1,0 +1,6 @@
+Filename,Annotation tag,Upper left corner X,Upper left corner Y,Lower right corner X,Lower right corner Y,Occluded,On another road,Origin file,Origin frame number,Origin track,Origin track frame number
+2021_0819_091643_072B-stop-start1820.MOV_image0.png,stop,264,310,308,348,0,0,2021_0819_091643_072B.MOV,1889,2021_0819_091643_072B-stop-start1820.MOV,69
+2021_0819_091643_072B-stop-start1820.MOV_image1.png,stop,266,310,306,347,0,0,2021_0819_091643_072B.MOV,1889,2021_0819_091643_072B-stop-start1820.MOV,69
+2021_0819_091643_072B-stop-start1820.MOV_image2.png,stop,246,300,291,350,0,0,2021_0819_091643_072B.MOV,1884,2021_0819_091643_072B-stop-start1820.MOV,64
+2021_0819_091643_072B-stop-start1820.MOV_image3.png,stop,262,310,304,358,0,0,2021_0819_091643_072B.MOV,1889,2021_0819_091643_072B-stop-start1820.MOV,69
+2021_0819_091643_072B-stop-start1820.MOV_image4.png,stop,278,314,317,360,0,0,2021_0819_091643_072B.MOV,1894,2021_0819_091643_072B-stop-start1820.MOV,74

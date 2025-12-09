@@ -1,0 +1,11 @@
+Filename,Annotation tag,Upper left corner X,Upper left corner Y,Lower right corner X,Lower right corner Y,Occluded,On another road,Origin file,Origin frame number,Origin track,Origin track frame number
+2021_0901_162612_094B-pedestrianCrossing-start1650.MOV_image0.png,pedestrianCrossing,17,342,38,369,0,1,2021_0901_162612_094B.MOV,1664,2021_0901_162612_094B-pedestrianCrossing-start1650.MOV,14
+2021_0901_162612_094B-pedestrianCrossing-start1650.MOV_image1.png,pedestrianCrossing,47,349,70,376,0,1,2021_0901_162612_094B.MOV,1669,2021_0901_162612_094B-pedestrianCrossing-start1650.MOV,19
+2021_0901_162612_094B-pedestrianCrossing-start1650.MOV_image2.png,pedestrianCrossing,76,356,97,381,0,1,2021_0901_162612_094B.MOV,1674,2021_0901_162612_094B-pedestrianCrossing-start1650.MOV,24
+2021_0901_162612_094B-pedestrianCrossing-start1650.MOV_image3.png,pedestrianCrossing,103,357,123,380,0,1,2021_0901_162612_094B.MOV,1679,2021_0901_162612_094B-pedestrianCrossing-start1650.MOV,29
+2021_0901_162612_094B-pedestrianCrossing-start1650.MOV_image4.png,pedestrianCrossing,126,362,145,383,0,1,2021_0901_162612_094B.MOV,1684,2021_0901_162612_094B-pedestrianCrossing-start1650.MOV,34
+2021_0901_162612_094B-pedestrianCrossing-start1650.MOV_image5.png,pedestrianCrossing,147,365,166,385,0,1,2021_0901_162612_094B.MOV,1689,2021_0901_162612_094B-pedestrianCrossing-start1650.MOV,39
+2021_0901_162612_094B-pedestrianCrossing-start1650.MOV_image6.png,pedestrianCrossing,170,366,188,387,0,1,2021_0901_162612_094B.MOV,1694,2021_0901_162612_094B-pedestrianCrossing-start1650.MOV,44
+2021_0901_162612_094B-pedestrianCrossing-start1650.MOV_image7.png,pedestrianCrossing,189,366,203,385,0,1,2021_0901_162612_094B.MOV,1699,2021_0901_162612_094B-pedestrianCrossing-start1650.MOV,49
+2021_0901_162612_094B-pedestrianCrossing-start1650.MOV_image8.png,pedestrianCrossing,241,366,255,385,0,1,2021_0901_162612_094B.MOV,1714,2021_0901_162612_094B-pedestrianCrossing-start1650.MOV,64
+2021_0901_162612_094B-pedestrianCrossing-start1650.MOV_image9.png,pedestrianCrossing,291,374,301,389,0,1,2021_0901_162612_094B.MOV,1729,2021_0901_162612_094B-pedestrianCrossing-start1650.MOV,79
