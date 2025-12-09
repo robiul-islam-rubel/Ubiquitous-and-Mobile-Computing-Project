@@ -1,5 +1,6 @@
 1_Datasets/*.png
 1_Datasets/*.jpg
 1_Datasets/*.jpeg
+1_Datasets/**/*.{png,jpg,jpeg}
 
 .env
