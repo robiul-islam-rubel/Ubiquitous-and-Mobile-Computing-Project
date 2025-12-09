@@ -27,6 +27,7 @@ args = parser.parse_args()
 # === Define Schema ===
 class DrivingAssessment(BaseModel):
     traffic_sign_name: str
+    explanation_of_traffic_sign:str
     traffic_sign_location: str
     confidence: float
 
@@ -90,13 +91,21 @@ if __name__=="__main__":
     
     # Prompt and input/output directory
     prompt_file = f"{PROMPT_DIRECTORY}/traffic_sign.txt"
-    INPUT_DIR  = f"{DATASET_DIRECTORY}/{args.dataset}"
-    OUTPUT_DIR = f"{DATASET_DIRECTORY}/llama4scout_dataset3"
+    all_images = []
+
+    INPUT_DIR = f"{DATASET_DIRECTORY}/{args.dataset}"
+    print(INPUT_DIR)
+
+    ext = "*.png"
+    images = sorted(glob.glob(f"{INPUT_DIR}/{ext}"))
+    all_images.extend(images)
+
+
+    OUTPUT_DIR = f"{DATASET_DIRECTORY}/{args.output_folder}"
     os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-    # Change the extension based on the dataset
-    ext = "*.png" 
-    all_images = sorted(glob.glob(f"{INPUT_DIR}/{ext}"))
+  
+    print(f"Fuck: {all_images}")
 
     # Load the prompt
     with open(prompt_file, 'r') as file:
@@ -105,7 +114,7 @@ if __name__=="__main__":
     
     print(f"Selected {len(all_images)}")
     # Process each image
-    for img in tqdm(all_images):
+    for img in tqdm(all_images[:1000]):
         b64 = encode_image_to_base64(img)
         img_name = Path(img).stem
         result = llama4(prompt,[f"data:image/jpeg;base64,{b64}"])
