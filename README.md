@@ -45,6 +45,8 @@ pip install -r requirements.txt
 
 Check this link: [Llama4](https://medium.com/data-science-in-your-pocket/how-to-use-meta-llama4-for-free-da46c30aa32c)
 
+You need to create a new file called `.env` and then place the API key.
+
 
 > add_glare.py
 
